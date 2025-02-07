@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Mahin Atturu / Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Mahin Atturu"
+description              : &description "3rd year ECE student at Virginia Tech"
+url                      : https://atturu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mahin Atturu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Hello there! Welcome to my profile! \n\n My name is Mahin Atturu and I am from Richmond, VA currently residing in Blacksburg. I am currently studying for 2 Bachelor’s Degrees at once, to get a Bachelor of Science in Electrical Engineering with a Major in Controls, Robotics, and Autonomy, and a Bachelor of Science in Computer Engineering with a Major in Machine Learning. Outside of school, I am currently learning Data Science and Cloud Computing skills, as well as a bit of Chip Design and Web/Game Development.\n\nI am a student in constant pursuit of knowledge and skills, looking to work in any kind of field. I am very adaptable, as I can pick up skills fairly quickly and can work in all kinds of environments. I am easy to work with and fun to be around.\n\nOutside of work, I love to play bowling, darts, the saxophone, and the Switch and also have recently begun volleyball and weightlifting in my free time."
+  location         : "Virginia, USA"
+  employer         : "Hume Center @Virginia Tech"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "matturu@vt.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "kingmahin"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,9 +57,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "mah1na2ru"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Mahin Atturu"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
